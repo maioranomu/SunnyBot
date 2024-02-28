@@ -1,9 +1,9 @@
 import discord
 import asyncio
 
-SERVER_ID = 1212168833859715092
+SERVER_ID = 
 TOKEN = ""
-CHANNEL_ID = 1212168834346393692
+CHANNEL_ID = 
 
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
