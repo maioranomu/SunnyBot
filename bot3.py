@@ -2,7 +2,7 @@ import discord
 import asyncio
 
 SERVER_ID = 1212168833859715092
-TOKEN = "MTIxMjE1MzEzOTU1NDI5MTgwMg.Gnypzp.26kFNjqUOrNwMaacIh_VUXm6dY9lFZiiU2BrY8"
+TOKEN = ""
 CHANNEL_ID = 1212168834346393692
 
 intents = discord.Intents.default()
