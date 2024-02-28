@@ -19,7 +19,7 @@ async def on_message(message):
         return
 
     if message.content.lower() == "":
-        await message.channel.send("sexo")
+        await message.channel.send("") #REACT TO ANY MESSAGE (JUST FOR TESTING)
 
 async def send_message():
     channel = client.get_channel(CHANNEL_ID)
